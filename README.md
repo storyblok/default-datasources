@@ -2,7 +2,7 @@
   <h1 align="center">default-datasources</h1>
   <p align="center">A Collections of Datasources for the develop of website's using <a href="https://www.storyblok.com" target="_blank">Storyblok</a>.</p>
 </p>
-<br><br>
+<br>
 
 ## What is default-datasources
 Datasources enables you to use a specific set of data (countrylists, grid-widths or any other key/value paired source) in a single & multi choice field type in the [Storyblok](https://www.storyblok.com) component part editor.
