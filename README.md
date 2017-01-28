@@ -20,7 +20,10 @@ The format for the key / value pairs in [Storyblok](https://www.storyblok.com) l
 ]
 ```
 
-## How to use a Datasource.
+## How to use a Datasource
 <p align="center">
 <img src="https://a.storyblok.com/f/40044/3a239450ea/ezgif-com-10707cd7eb.gif" alt="How to use a datasource">
 </p>
+
+## What about the `Datasources` in [Storyblok](https://www.storyblok.com) itself?
+If you have Datasources which should be only for one project and will change for the next (catgories, ...). You can also use those Datasources in single & multi choices and access it using the Delivery API as descriped in our [Delivery API / Datasource Entries Documentation](https://www.storyblok.com/docs/Delivery-Api/Datasource-Entries).
